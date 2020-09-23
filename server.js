@@ -37,6 +37,7 @@ mongoose.connection.once('open', () => {
     console.log('Change Triggered on pusher...');
     console.log(change);
     console.log('End of change');
+
     if (change.operationType === 'insert') {
       console.log('Triggering Pusher ***IMG UPLOAD***');
       const postDetails = change.fullDocument;
