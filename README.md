@@ -6,7 +6,7 @@
 
 #### Check out my deployed web app:
 
-[Instagram Clone](/ 'Instagram Clone')
+[Instagram Clone](https://instagram-clone-8e3d5.web.app/ 'Instagram Clone')
 
 #### Check out the frontend repo:
 
@@ -14,6 +14,6 @@
 
 #### Marketing copy:
 
-A clone of the dating website Tinder. This project was created by following a Live Stream video from CleverProgrammer YouTube channel.
+A clone of the social media website Instagram. This project was created by following a Live Stream video from CleverProgrammer YouTube channel.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
