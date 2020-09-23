@@ -46,7 +46,7 @@ mongoose.connection.once('open', () => {
         image: postDetails.image,
       });
     } else {
-      console.log('Uknown trigger from pusher');
+      console.log('Unknown trigger from pusher');
     }
   });
 });
